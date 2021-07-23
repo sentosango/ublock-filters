@@ -1,0 +1,251 @@
+
+! ===============================================================
+! =                        SITE ELEMENTS                        =
+! ===============================================================
+
+! aliexpress.com
+aliexpress.com###J_xiaomi_dialog
+aliexpress.com##.con
+aliexpress.com##.m-sop-banner.m-sop.module
+aliexpress.com##.ui-fixed-panel
+
+! askubuntu.com (SO based)
+askubuntu.com###sidebar
+askubuntu.com##body:style(background-image:none !important)
+askubuntu.com##.site-header
+
+! binance.com
+binance.com###launcher
+
+! blog.couchbase.com
+blog.couchbase.com##.sharedaddy
+
+! career.habr.com
+career.habr.com##.vacancy_banner
+career.habr.com##.timepad.section
+
+! cnet.com
+cnet.com##.entered.dock.inviewElement
+
+! codementor.io
+codementor.io##.bottom-bar
+
+! dev.to
+dev.to###article-reaction-actions
+dev.to###html-variant-article-show-below-article
+dev.to###top-bar
+dev.to###footer-container
+dev.to##.container.more-articles
+dev.to##.show-page-content-display
+
+! developer.mozilla.org
+developer.mozilla.org##.mdn-cta-container
+
+! digitalocean.com
+digitalocean.com###newsletter-signup-dialog
+
+! dns-shop.ru
+dns-shop.ru##.head-promo-banner
+dns-shop.ru##.homepage-top-grid__banners
+dns-shop.ru##.homepage-top-grid__actions
+dns-shop.ru##.homepage-exchange-bonus-banner
+dns-shop.ru##.products-list__banner
+
+! downdetector.ru
+downdetector.ru###vk_groups
+downdetector.ru###_evidon-barrier-wrapper
+
+! edureka.co
+edureka.co##.slideup.newsletter-section
+
+! facebook.com
+facebook.com###headerArea
+
+! feedly.com
+feedly.com##.button--primary.pro
+feedly.com##.LeftnavDock--notification
+feedly.com##.shareBarHolder
+feedly.com##.small.primary.pro
+feedly.com##.widget-related-feeds
+
+! fires.ru
+fires.ru##.help-title
+
+! geekbrains.ru
+geekbrains.ru##.activation-banner-app
+
+! github.com
+github.com##.js-notice.mb-4.container
+github.com##.octotree-pr-tree__promo
+github.com##.signup-prompt
+
+! habr.com
+habr.com##li.shortcuts_item.content-list__item_post.content-list__item > .default-block
+habr.com##.sidebar_content-area
+
+! hh.ru
+hh.ru##.resume-block-notification_wrapper
+hh.ru##.saved-search-subscription-plane
+hh.ru##.supernova-footer
+hh.ru##.vacancy-serp > .serp-special
+
+! howtogeek.com
+howtogeek.com##.email-overlay
+howtogeek.com##.overlay-wrapper
+
+! internet-technologies.ru
+internet-technologies.ru##.fixed
+internet-technologies.ru###SidebarSticking
+
+! itsfoss.com
+itsfoss.com##.Campaign
+
+! kde.org
+kde.org##body,#header,.navbar,.navbar-inner:style(background-image:none !important)
+kde.org##.fixed
+
+! keybr.com
+keybr.com##.Body-header > div > .Placeholder
+keybr.com##.Body-aside > div > .Placeholder
+keybr.com##.Supporter
+
+! laracasts.com
+laracasts.com##.global-notification
+
+! laradock.io
+laradock.io##body:style(background:none !important)
+
+! lifehacker.com
+lifehacker.com##.initialized.instream-permalink.instream-native-video--desktop.instream-native-video
+
+! livejournal.com
+livejournal.com##.b-discoverytimes-wrapper
+livejournal.com##frame
+
+! livelib.ru
+livelib.ru###selfpub-alert
+livelib.ru###server_err_msg
+livelib.ru###user-hint-profile
+livelib.ru##.footer-container
+livelib.ru##.hint-back
+livelib.ru##.hint-back-shadow
+livelib.ru##.progress-sidenav
+livelib.ru##.swiper-container-horizontal.carousel-main
+
+! myshows.me
+myshows.me##.contAlt > [href^="https://myshows.me/pro/"]
+myshows.me##._sticking.user-in-show-only._actions
+myshows.me##._main:style(background-color: rgb(31, 32, 32) !important)
+myshows.me##.footer
+myshows.me##footer,footer .container:style(background-color: rgb(39, 40, 40) !important)
+myshows.me##footer:style(border-top: solid #c00 3px;)
+
+! nunomaduro.com
+nunomaduro.com##.mc-modal
+nunomaduro.com##.mc-modal-bg
+
+! onlineradiobox.com
+onlineradiobox.com###addToFavouritesPopup
+onlineradiobox.com###country_now_playing
+onlineradiobox.com##.ajax.header__i-logo
+onlineradiobox.com##.alert__content
+onlineradiobox.com##.alert__i-close
+onlineradiobox.com##.header
+onlineradiobox.com##.modal--cookies
+onlineradiobox.com##.modal--cookies-backdrop
+onlineradiobox.com##.page__aside
+onlineradiobox.com##.player__citatis
+onlineradiobox.com##.playmarket
+
+! opensource.com
+opensource.com###block-os-common-components-footer-call-to-action
+opensource.com###footer
+opensource.com##.field-name-field-homepage-call-to-action-1
+opensource.com##.field-name-field-homepage-call-to-action-2
+opensource.com##.field-name-field-homepage-call-to-action-3
+opensource.com##.pane-node-field-homepage-call-to-action-1
+opensource.com##.pane-node-field-homepage-call-to-action-2
+opensource.com##.pane-node-field-homepage-call-to-action-3
+opensource.com##.region-footer-nav.region
+opensource.com##.view-homepage-hero.view > .view-content
+opensource.com##.widget-block__left
+
+! podster.fm
+podster.fm##.promoblock
+
+! python-scripts.com
+python-scripts.com###sgpb-popup-dialog-main-div-wrapper
+python-scripts.com##.sgpb-popup-overlay
+
+! raindrop.io
+raindrop.io##.proAccountBlock
+
+! rambler.ru
+rambler.ru##.j-menu
+rambler.ru##.j-sticky-banner
+rambler.ru##.popup__inner
+
+! spark.ru
+spark.ru##.banner-300x242
+
+! stackexchange.com
+stackexchange.com##.js-dismissable-hero
+
+! stackoverflow.com
+stackoverflow.com###clc-tlb
+stackoverflow.com###sidebar
+stackoverflow.com##.js-dismissable-hero
+stackoverflow.com##.overflow-hidden.ps-relative.fd-column.grid.p16.bar-sm.bc-black-2.ba
+
+! system76.com
+system76.com##.center-middle.open.tmblr-iframe
+
+! toster.ru
+toster.ru##.alert_info.alert
+
+! tproger.ru
+tproger.ru###above-content-container
+tproger.ru###comments
+tproger.ru###float-banner-container
+tproger.ru###float-widget-container
+tproger.ru###side-bar
+tproger.ru##.fixed
+tproger.ru##.float-widget
+tproger.ru##.mail-modal
+
+! translate.google.com
+translate.google.com##.container > .notification-area
+
+! vc.ru
+vc.ru##.live__scrollable
+vc.ru##.live__header
+
+! vk.com
+vk.com###stories_feed_wrap
+vk.com###groups_recommendations
+vk.com###page_bottom_banners_root
+vk.com##.apps_feedRightAppsBlock.page_block
+
+! vuejs.org
+vuejs.org###sidebar-sponsors-platinum-left
+vuejs.org###sidebar-sponsors-special > .main-sponsor
+
+! wikihow.com
+wikihow.com###article_courses_banner
+
+! wikipedia.org
+wikipedia.org###siteNotice
+
+! youtube.com
+youtube.com###inline-recs-list-renderer
+youtube.com###sponsor-button
+youtube.com##div.banner-visible-area
+youtube.com##.ytp-cards-teaser
+youtube.com##.ytp-ce-element-show
+youtube.com##.ytp-chrome-top
+youtube.com##.ytp-fullerscreen-edu-chevron
+youtube.com##.ytp-pause-overlay
+youtube.com##.ytp-title-text
+youtube.com##.ytd-primetime-promo-renderer
+youtube.com##ytd-guide-signin-promo-renderer
+youtube.com###content > .ytd-rich-section-renderer.style-scope

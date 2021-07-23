@@ -1,0 +1,8 @@
+! ===============================================================
+! =                            SCRIPTS                          =
+! ===============================================================
+
+*scrollorama*$script
+*ScrollMagic*$script
+*smooth-scroll*$script
+*SmoothScroll*$script
