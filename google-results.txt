@@ -1,0 +1,60 @@
+! ===============================================================
+! =                       GOOGLE RESULTS                        =
+! ===============================================================
+
+! No secure
+google.com##div.g:has(div a[href^="http:"])
+
+! A
+google.com##div.g:has(div a[href^="https://andreyex.ru"])
+google.com##div.g:has(div a[href^="https://ask-ubuntu.ru"])
+google.com##div.g:has(div a[href^="https://askubuntu.ru"])
+
+! C
+google.com##div.g:has(div a[href^="https://coderoad.ru"])
+
+! F
+google.com##div.g:has(div a[href^="https://faultserver.ru"])
+
+! K
+google.com##div.g:has(div a[href^="https://knews.vip"])
+google.com##div.g:has(div a[href^="https://kompsekret.ru"])
+
+! O
+google.com##div.g:has(div a[href^="https://overcoder.net"])
+
+! P
+google.com##div.g:has(div a[href^="https://progi.pro"])
+google.com##div.g:has(div a[href^="https://poweruser.guru"])
+google.com##div.g:has(div a[href^="https://privetmir.net"])
+google.com##div.g:has(div a[href^="https://prog-help.ru"])
+
+! Q
+google.com##div.g:has(div a[href^="https://qarus.ru"])
+google.com##div.g:has(div a[href^="https://qastack.ru"])
+google.com##div.g:has(div a[href^="https://question-it.com"])
+
+! R
+google.com##div.g:has(div a[href^="https://ru.upcyclingfestival.org"])
+google.com##div.g:has(div a[href^="https://ru.wikihow.com"])
+google.com##div.g:has(div a[href^="https://rugeek.ru"])
+google.com##div.g:has(div a[href^="https://ruphp.com"])
+
+! S
+google.com##div.g:has(div a[href^="https://sprosi.pro"])
+google.com##div.g:has(div a[href^="https://stackru.com"])
+google.com##div.g:has(div a[href^="https://switch-case.ru"])
+
+! T
+google.com##div.g:has(div a[href^="https://techarks.ru"])
+
+! U
+google.com##div.g:has(div a[href^="https://ubuntugeeks.com"])
+google.com##div.g:has(div a[href^="https://unix.stackovernet.xyz"])
+google.com##div.g:has(div a[href^="https://unixconf.ru"])
+
+! W
+google.com##div.g:has(div a[href^="https://wikiroot.ru"])
+google.com##div.g:has(div a[href^="https://www.it-swarm.xyz"])
+google.com##div.g:has(div a[href^="https://www.javaer101.com"])
+google.com##div.g:has(div a[href^="https://www.rupython.com"])
