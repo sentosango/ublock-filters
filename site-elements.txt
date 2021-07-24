@@ -82,6 +82,15 @@ github.com##.signup-prompt
 ! habr.com
 habr.com##li.shortcuts_item.content-list__item_post.content-list__item > .default-block
 habr.com##.sidebar_content-area
+habr.com##.tm-articles-list__promo-block
+habr.com##.tm-comments__comment-notice
+habr.com##.tm-editoral-subscription
+habr.com##.tm-feature__link
+habr.com##.tm-header__become-author-btn
+habr.com##.tm-page__sidebar
+habr.com##.tm-page-article__additional-blocks > section.tm-block_spacing-around.tm-block
+habr.com##.tm-promo-block__content-wrapper
+habr.com##.tm-top-link
 
 ! hh.ru
 hh.ru##.resume-block-notification_wrapper
