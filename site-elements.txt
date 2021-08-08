@@ -84,6 +84,7 @@ habr.com##li.shortcuts_item.content-list__item_post.content-list__item > .defaul
 habr.com##.sidebar_content-area
 habr.com##.tm-articles-list__promo-block
 habr.com##.tm-comments__comment-notice
+habr.com##.tm-company-card__branding
 habr.com##.tm-editoral-subscription
 habr.com##.tm-feature__link
 habr.com##.tm-header__become-author-btn
