@@ -55,6 +55,7 @@ google.com##div.g:has(div a[href^="https://unixconf.ru"])
 
 ! W
 google.com##div.g:has(div a[href^="https://wikiroot.ru"])
+google.com##div.g:has(div a[href^="https://www.codegrepper.com"])
 google.com##div.g:has(div a[href^="https://www.it-swarm.xyz"])
 google.com##div.g:has(div a[href^="https://www.javaer101.com"])
 google.com##div.g:has(div a[href^="https://www.rupython.com"])
