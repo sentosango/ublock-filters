@@ -13,6 +13,7 @@ aliexpress.com##.ui-fixed-panel
 askubuntu.com###sidebar
 askubuntu.com##body:style(background-image:none !important)
 askubuntu.com##.site-header
+askubuntu.com##.z-nav-fixed
 
 ! binance.com
 binance.com###launcher
