@@ -94,9 +94,11 @@ habr.com##.tm-promo-block__content-wrapper
 habr.com##.tm-top-link
 
 ! hh.ru
+hh.ru##.banner-substrate
 hh.ru##.resume-block-notification_wrapper
 hh.ru##.saved-search-subscription-plane
 hh.ru##.supernova-footer
+hh.ru##.vacancy-noprint
 hh.ru##.vacancy-serp > .serp-special
 
 ! howtogeek.com
