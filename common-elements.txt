@@ -57,6 +57,7 @@
 ##.js-freemium-cta
 ##.js-gdpr-tooltip
 ##.js_modal_exit_intent
+##.js-smart-line
 ##.leadinModal-content
 ##.leadinModal-overlay
 ##.leadinModal-preview
@@ -86,6 +87,7 @@
 ##.telegram-modal
 ##.tippy-popper
 ##.top-banner-container
+##.wp_subscribe
 
 
 ! FOR SITES BASED ON MEDIUM.COM
