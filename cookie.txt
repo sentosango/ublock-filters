@@ -109,6 +109,7 @@
 ###gdpr-bottom
 ###gdpr-cookie-message
 ###gdpr-dashboard
+###gdpr-tooltip
 ###gdpr18
 ###gdprPopup
 ###gel-cookie-banner
