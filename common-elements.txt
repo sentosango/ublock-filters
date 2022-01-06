@@ -21,6 +21,7 @@
 ###PopupSignupForm_0
 ###pozvonim-button
 ###privacy-consent
+###push-alert-block
 ###sgpb-popup-dialog-main-div-wrapper
 ###sideBanner
 ###standalone-footer
@@ -57,6 +58,7 @@
 ##.js-freemium-cta
 ##.js-gdpr-tooltip
 ##.js_modal_exit_intent
+##.js-push-allow
 ##.js-smart-line
 ##.leadinModal-content
 ##.leadinModal-overlay
@@ -77,6 +79,7 @@
 ##.popup-subscribe-shadow
 ##.promo-block
 ##.push_offer
+##.push-allow
 ##.s-hero
 ##.s-hero--container
 ##.sendpulse-prompt
@@ -84,10 +87,12 @@
 ##.signup-cta
 ##.sponsor
 ##.subscribers-form
+##.suggest_push
 ##.telegram-modal
 ##.tippy-popper
 ##.top-banner-container
 ##.wp_subscribe
+##.wraper__suggest
 
 
 ! FOR SITES BASED ON MEDIUM.COM
