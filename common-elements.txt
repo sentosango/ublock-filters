@@ -15,6 +15,18 @@
 ###drift-widget-container
 ###exitpopup-modal
 ###fixed-banner
+###jsAdBlock1
+###jsAdBlock2
+###jsAdBlock3
+###jsAdBlock4
+###jsAdBlock5
+###jsAdBlock6
+###jsAdBlock7
+###jsAdBlock8
+###jsAdBlock9
+###jsAdBlock10
+###jsAdBlock11
+###jsAdBlock12
 ###js-gdpr-consent-banner
 ###koxDivWrapper
 ###leadia-widget
@@ -27,6 +39,7 @@
 ###standalone-footer
 ###sticky-notifications
 
+##.__footer_ads
 ##._show-sponsored
 ##.adblock
 ##.app-cookie-agreement
@@ -60,6 +73,7 @@
 ##.js_modal_exit_intent
 ##.js-push-allow
 ##.js-smart-line
+##.js_subscribe
 ##.leadinModal-content
 ##.leadinModal-overlay
 ##.leadinModal-preview
@@ -77,6 +91,7 @@
 ##.page-header__banner
 ##.persistent-bottom
 ##.popup-subscribe-shadow
+##.promo-banner
 ##.promo-block
 ##.push_offer
 ##.push-allow
