@@ -137,6 +137,7 @@
 ##.banner--cookies-policy
 ##.bs-wrap-gdpr-law
 ##.c-cookie-notice
+##.cCookiePolicy
 ##.cc-banner
 ##.cc-cookie-consent-banner-modal
 ##.cc-cookies
