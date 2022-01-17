@@ -12,9 +12,11 @@ google.com##div.g:has(div a[href^="https://askubuntu.ru"])
 
 ! C
 google.com##div.g:has(div a[href^="https://coderoad.ru"])
+google.com##div.g:has(div a[href^="https://coderoad.wiki"])
 
 ! F
 google.com##div.g:has(div a[href^="https://faultserver.ru"])
+google.com##div.g:has(div a[href^="https://fooobar.com"])
 
 ! K
 google.com##div.g:has(div a[href^="https://knews.vip"])
@@ -25,9 +27,11 @@ google.com##div.g:has(div a[href^="https://overcoder.net"])
 
 ! P
 google.com##div.g:has(div a[href^="https://progi.pro"])
+google.com##div.g:has(div a[href^="https://phptime.ru"])
 google.com##div.g:has(div a[href^="https://poweruser.guru"])
 google.com##div.g:has(div a[href^="https://privetmir.net"])
 google.com##div.g:has(div a[href^="https://prog-help.ru"])
+
 
 ! Q
 google.com##div.g:has(div a[href^="https://qarus.ru"])
