@@ -32,7 +32,6 @@ google.com##div.g:has(div a[href^="https://poweruser.guru"])
 google.com##div.g:has(div a[href^="https://privetmir.net"])
 google.com##div.g:has(div a[href^="https://prog-help.ru"])
 
-
 ! Q
 google.com##div.g:has(div a[href^="https://qarus.ru"])
 google.com##div.g:has(div a[href^="https://qastack.ru"])
@@ -42,6 +41,7 @@ google.com##div.g:has(div a[href^="https://question-it.com"])
 google.com##div.g:has(div a[href^="https://ru.upcyclingfestival.org"])
 google.com##div.g:has(div a[href^="https://ru.wikihow.com"])
 google.com##div.g:has(div a[href^="https://rugeek.ru"])
+google.com##div.g:has(div a[href^="https://runebook.dev"])
 google.com##div.g:has(div a[href^="https://ruphp.com"])
 
 ! S
@@ -62,4 +62,5 @@ google.com##div.g:has(div a[href^="https://wikiroot.ru"])
 google.com##div.g:has(div a[href^="https://www.codegrepper.com"])
 google.com##div.g:has(div a[href^="https://www.it-swarm.xyz"])
 google.com##div.g:has(div a[href^="https://www.javaer101.com"])
+google.com##div.g:has(div a[href^="https://www.oulub.com"])
 google.com##div.g:has(div a[href^="https://www.rupython.com"])
