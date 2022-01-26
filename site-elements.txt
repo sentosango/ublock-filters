@@ -80,6 +80,9 @@ github.com##.js-notice.mb-4.container
 github.com##.octotree-pr-tree__promo
 github.com##.signup-prompt
 
+! google.com
+google.com###searchform.minidiv
+
 ! habr.com
 habr.com##li.shortcuts_item.content-list__item_post.content-list__item > .default-block
 habr.com##.sidebar_content-area
@@ -106,6 +109,9 @@ hh.ru##.vacancy-serp > .serp-special
 howtogeek.com##.email-overlay
 howtogeek.com##.overlay-wrapper
 
+! interfax.ru
+interfax.ru##.popupNowReading
+
 ! internet-technologies.ru
 internet-technologies.ru##.fixed
 internet-technologies.ru###SidebarSticking
@@ -122,6 +128,13 @@ keybr.com##.Body-header > div > .Placeholder
 keybr.com##.Body-aside > div > .Placeholder
 keybr.com##.Supporter
 
+! kinopoisk.ru
+kinopoisk.ru##.header-fresh-dropdown-partial-component
+
+! kommersant.ru
+kommersant.ru##.js-leftside
+kommersant.ru##.js-rightside
+
 ! laracasts.com
 laracasts.com##.global-notification
 
@@ -130,6 +143,13 @@ laradock.io##body:style(background:none !important)
 
 ! lifehacker.com
 lifehacker.com##.initialized.instream-permalink.instream-native-video--desktop.instream-native-video
+
+! linuxquestions.org
+linuxquestions.org###navbar_notice_1
+linuxquestions.org##.navbar_notice
+
+! losst.ru
+losst.ru##.image-logo.logo-wrap
 
 ! livejournal.com
 livejournal.com##.b-discoverytimes-wrapper
@@ -145,6 +165,12 @@ livelib.ru##.hint-back-shadow
 livelib.ru##.progress-sidenav
 livelib.ru##.swiper-container-horizontal.carousel-main
 
+! money.yandex.ru
+money.yandex.ru##.offerwall-banner
+
+! myheritage.com
+myheritage.com##.pop_from_top_banner_container
+
 ! myshows.me
 myshows.me##.contAlt > [href^="https://myshows.me/pro/"]
 myshows.me##._sticking.user-in-show-only._actions
@@ -152,6 +178,9 @@ myshows.me##._main:style(background-color: rgb(31, 32, 32) !important)
 myshows.me##.footer
 myshows.me##footer,footer .container:style(background-color: rgb(39, 40, 40) !important)
 myshows.me##footer:style(border-top: solid #c00 3px;)
+
+! ntv.ru
+ntv.ru###newplayer
 
 ! nunomaduro.com
 nunomaduro.com##.mc-modal
@@ -183,6 +212,12 @@ opensource.com##.region-footer-nav.region
 opensource.com##.view-homepage-hero.view > .view-content
 opensource.com##.widget-block__left
 
+! pikabu.ru
+pikabu.ru###vk_groups
+
+! pochta.ru
+pochta.ru##div[class*="BannerPlace"]
+
 ! podster.fm
 podster.fm##.promoblock
 
@@ -198,6 +233,17 @@ rambler.ru##.j-menu
 rambler.ru##.j-sticky-banner
 rambler.ru##.popup__inner
 
+! ria.ru
+ria.ru###headerSticked
+ria.ru###widgetBottom
+ria.ru##.article__sharebar-line
+ria.ru##.recommend__place
+ria.ru##.footer__social
+
+! rt.com
+rt.com###offers
+rt.com##.subscribe-layout
+
 ! spark.ru
 spark.ru##.banner-300x242
 
@@ -209,6 +255,9 @@ stackoverflow.com###clc-tlb
 stackoverflow.com###sidebar
 stackoverflow.com##.js-dismissable-hero
 stackoverflow.com##.overflow-hidden.ps-relative.fd-column.grid.p16.bar-sm.bc-black-2.ba
+
+! svoboda.org
+svoboda.org##.sticky-share-container
 
 ! system76.com
 system76.com##.center-middle.open.tmblr-iframe
@@ -229,6 +278,20 @@ tproger.ru##.mail-modal
 ! translate.google.com
 translate.google.com##.container > .notification-area
 
+! tvrain.ru
+tvrain.ru##.document-head__title_foreign_agent
+tvrain.ru##.article_paid__btn
+tvrain.ru##.sospeso-widget-material
+tvrain.ru##.buy-block__wrapper
+tvrain.ru##.menu3__foreign-agent-wrapper
+tvrain.ru##.buy-block
+tvrain.ru##.document-content__social-links-text
+
+! ura.news
+ura.news##.no-print
+ura.news##.publication-send-news
+ura.news##.vc-left
+
 ! vc.ru
 vc.ru##.live__scrollable
 vc.ru##.live__header
@@ -238,6 +301,9 @@ vk.com###stories_feed_wrap
 vk.com###groups_recommendations
 vk.com###page_bottom_banners_root
 vk.com##.apps_feedRightAppsBlock.page_block
+
+! vokrug.tv
+vokrug.tv##.videobomba
 
 ! vuejs.org
 vuejs.org###sidebar-sponsors-platinum-left
