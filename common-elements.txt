@@ -77,11 +77,13 @@
 ##.leadinModal-content
 ##.leadinModal-overlay
 ##.leadinModal-preview
+##.ltteleg-overlay
 ##.m-privacy-consent__inner
 ##.m-privacy-consent
 ##.mailerlite-form-slidebox
 ##.mailmunch-popover
 ##.mailmunch-overlay
+##.minishare
 ##.mpp-popup
 ##.mpp-overlay
 ##.news-pop
@@ -101,6 +103,7 @@
 ##.side-banner
 ##.signup-cta
 ##.sponsor
+##.subscribe-layout
 ##.subscribers-form
 ##.suggest_push
 ##.telegram-modal
