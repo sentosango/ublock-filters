@@ -9,6 +9,10 @@ aliexpress.com##.con
 aliexpress.com##.m-sop-banner.m-sop.module
 aliexpress.com##.ui-fixed-panel
 
+! aliexpress.ru
+aliexpress.ru##a[class^="styles_bannerLink"]
+aliexpress.ru##p[class*="PrivacyPolicyBanner"]
+
 ! askubuntu.com (SO based)
 askubuntu.com###sidebar
 askubuntu.com##body:style(background-image:none !important)
@@ -30,6 +34,14 @@ cnet.com##.entered.dock.inviewElement
 
 ! codementor.io
 codementor.io##.bottom-bar
+
+! currenttime.tv
+currenttime.tv##.also-read
+currenttime.tv##.design-top-offset > .media-block-wrap
+currenttime.tv##.foot__texts-wrap
+currenttime.tv##.hdr-20__side--secondary
+currenttime.tv##.region > .media-block-wrap
+currenttime.tv##.ymla-section
 
 ! dev.to
 dev.to###article-reaction-actions
@@ -80,8 +92,15 @@ github.com##.js-notice.mb-4.container
 github.com##.octotree-pr-tree__promo
 github.com##.signup-prompt
 
+! golosameriki.com
+golosameriki.com###comments
+golosameriki.com##.hdr
+
 ! google.com
 google.com###searchform.minidiv
+
+! gubdaily.ru
+gubdaily.ru##.gub-advert
 
 ! habr.com
 habr.com##li.shortcuts_item.content-list__item_post.content-list__item > .default-block
@@ -118,6 +137,9 @@ internet-technologies.ru###SidebarSticking
 
 ! itsfoss.com
 itsfoss.com##.Campaign
+
+! karelinform.ru
+karelinform.ru##.popup
 
 ! kde.org
 kde.org##body,#header,.navbar,.navbar-inner:style(background-image:none !important)
@@ -221,6 +243,12 @@ pochta.ru##div[class*="BannerPlace"]
 ! podster.fm
 podster.fm##.promoblock
 
+! ptzgovorit.ru
+ptzgovorit.ru###navbar
+ptzgovorit.ru##.longread-title-progress-bar
+ptzgovorit.ru##.navbar-news-margin
+ptzgovorit.ru##.navbar-short
+
 ! python-scripts.com
 python-scripts.com###sgpb-popup-dialog-main-div-wrapper
 python-scripts.com##.sgpb-popup-overlay
@@ -256,6 +284,18 @@ stackoverflow.com###sidebar
 stackoverflow.com##.js-dismissable-hero
 stackoverflow.com##.overflow-hidden.ps-relative.fd-column.grid.p16.bar-sm.bc-black-2.ba
 
+! stolicaonego.ru
+stolicaonego.ru##a[href^="tg://resolve"]
+stolicaonego.ru##.choice
+stolicaonego.ru##.content_banner_thin
+stolicaonego.ru##.content_right
+stolicaonego.ru##.content-small-news
+stolicaonego.ru##.header2019
+stolicaonego.ru##.owl-drag.owl-loaded.owl-carousel.blocks2019-wrap > .owl-stage-outer
+stolicaonego.ru##.top_banner1200
+stolicaonego.ru##.top_bl
+stolicaonego.ru##.yandex_ad_one
+
 ! svoboda.org
 svoboda.org##.sticky-share-container
 
@@ -279,13 +319,16 @@ tproger.ru##.mail-modal
 translate.google.com##.container > .notification-area
 
 ! tvrain.ru
-tvrain.ru##.document-head__title_foreign_agent
+tvrain.ru##.__until_tablet_hidden
 tvrain.ru##.article_paid__btn
-tvrain.ru##.sospeso-widget-material
-tvrain.ru##.buy-block__wrapper
-tvrain.ru##.menu3__foreign-agent-wrapper
 tvrain.ru##.buy-block
+tvrain.ru##.buy-block__wrapper
 tvrain.ru##.document-content__social-links-text
+tvrain.ru##.document-head__title_foreign_agent
+tvrain.ru##.menu3__bottom
+tvrain.ru##.menu3__foreign-agent-wrapper
+tvrain.ru##.sospeso-widget-material
+tvrain.ru##.wrap--transparent:style(padding-top:0 !important)
 
 ! ura.news
 ura.news##.no-print
@@ -328,3 +371,9 @@ youtube.com##.ytp-title-text
 youtube.com##.ytd-primetime-promo-renderer
 youtube.com##ytd-guide-signin-promo-renderer
 youtube.com###content > .ytd-rich-section-renderer.style-scope
+
+! zona.media
+zona.media##.fundraising-button
+zona.media##.mz-agent-banner
+zona.media##.mz-news-list_side
+zona.media##.mz-layout-footer
