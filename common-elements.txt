@@ -2,6 +2,10 @@
 ! =                        COMMON ELEMENTS                      =
 ! ===============================================================
 
+##[id^="ADVERT"]
+##[class*="Advert"]
+##[class^="DonateInformer"]
+
 ##frame
 ##noindex
 ###announcement-banner
@@ -9,6 +13,7 @@
 ###black_display
 ###box_popup
 ###catapult-cookie-bar
+###cookie-law-info-bar
 ###cookiebar
 ###cookiesv2
 ###demo_banner_allow_line
@@ -31,6 +36,7 @@
 ###koxDivWrapper
 ###leadia-widget
 ###notifications
+###policy
 ###PopupSignupForm_0
 ###pozvonim-button
 ###privacy-consent
@@ -39,12 +45,15 @@
 ###sideBanner
 ###standalone-footer
 ###sticky-notifications
+###subscribe
 
 ##.__footer_ads
 ##._show-sponsored
 ##.adblock
+##.app__cookies
 ##.app-cookie-agreement
 ##.article_paid
+##.attention--fixed
 ##.b-take-gift-popup
 ##.banner
 ##.banner-popup
@@ -54,11 +63,15 @@
 ##.button--notify
 ##.chatbro_chat
 ##.cookie
+##.cookie_panel
+##.cookie--popup
 ##.cookie-disclaimer
 ##.cookie-notification__inner
+##.cookie-popup
 ##.cookie-sticky-footer
 ##.cookiebar-nav
 ##.cookieprompt
+##.cookies__agree
 ##.cookies-privacy-popup
 ##.cookiesdiv
 ##.content-banner-rotator
@@ -67,10 +80,12 @@
 ##.fixed_banner
 ##.fixed-bottom
 ##.floating-header
+##.gdpr
 ##.global-notification
 ##.in-app-banner
 ##.js-announcement-banner
 ##.js-consent-banner
+##.js_cookie_panel
 ##.js-dismissable-hero
 ##.js-freemium-cta
 ##.js-gdpr-tooltip
@@ -91,6 +106,7 @@
 ##.mailmunch-popover
 ##.mailmunch-overlay
 ##.minishare
+##.mobileCallPanel
 ##.mpp-popup
 ##.mpp-overlay
 ##.news-pop
@@ -100,7 +116,10 @@
 ##.page-header__banner
 ##.persistent-bottom
 ##.policy
+##.policypopup
+##.popup__overlay
 ##.popup-subscribe-shadow
+##.prm-block
 ##.promo-banner
 ##.promo-block
 ##.push_offer
@@ -110,8 +129,10 @@
 ##.s-hero
 ##.s-hero--container
 ##.sendpulse-prompt
+##.sharing
 ##.side-banner
 ##.signup-cta
+##.social-sharing
 ##.sponsor
 ##.sticky-share-container
 ##.subscribe-layout
