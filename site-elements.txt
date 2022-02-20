@@ -68,6 +68,10 @@ dns-shop.ru##.products-list__banner
 downdetector.ru###vk_groups
 downdetector.ru###_evidon-barrier-wrapper
 
+! dw.com
+dw.com##.followus
+dw.com##.feedbackteaser
+
 ! edureka.co
 edureka.co##.slideup.newsletter-section
 
@@ -121,6 +125,7 @@ hh.ru##.banner-substrate
 hh.ru##.resume-block-notification_wrapper
 hh.ru##.saved-search-subscription-plane
 hh.ru##.supernova-footer
+hh.ru##.tmpl_hh_header
 hh.ru##.vacancy-noprint
 hh.ru##.vacancy-serp > .serp-special
 
@@ -186,6 +191,12 @@ livelib.ru##.hint-back
 livelib.ru##.hint-back-shadow
 livelib.ru##.progress-sidenav
 livelib.ru##.swiper-container-horizontal.carousel-main
+
+! moidom.citylink.pro
+moidom.citylink.pro##.mobile-header_top
+moidom.citylink.pro##.public-camera-promo-block
+moidom.citylink.pro##.upper
+moidom.citylink.pro##.wrapper-smarthome-app
 
 ! money.yandex.ru
 money.yandex.ru##.offerwall-banner
@@ -269,7 +280,13 @@ ria.ru##.recommend__place
 ria.ru##.footer__social
 
 ! rt.com
+rt.com##.article__share
+rt.com##.comments
+rt.com##.error-on-page
+rt.com##.fb-like
+rt.com##.follows-channel
 rt.com###offers
+rt.com##.socials
 rt.com##.subscribe-layout
 
 ! spark.ru
@@ -292,6 +309,7 @@ stolicaonego.ru##.content_right
 stolicaonego.ru##.content-small-news
 stolicaonego.ru##.header2019
 stolicaonego.ru##.owl-drag.owl-loaded.owl-carousel.blocks2019-wrap > .owl-stage-outer
+stolicaonego.ru##.sm-rotator2019
 stolicaonego.ru##.top_banner1200
 stolicaonego.ru##.top_bl
 stolicaonego.ru##.yandex_ad_one
@@ -301,6 +319,9 @@ svoboda.org##.sticky-share-container
 
 ! system76.com
 system76.com##.center-middle.open.tmblr-iframe
+
+! theverge.com
+theverge.com##.m-privacy-consent__inner
 
 ! toster.ru
 toster.ru##.alert_info.alert
