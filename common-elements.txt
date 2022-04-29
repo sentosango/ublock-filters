@@ -33,6 +33,7 @@
 ###jsAdBlock11
 ###jsAdBlock12
 ###js-gdpr-consent-banner
+###jsUsePersonalDataBlock
 ###koxDivWrapper
 ###leadia-widget
 ###notifications
@@ -46,6 +47,7 @@
 ###standalone-footer
 ###sticky-notifications
 ###subscribe
+###virtual-assistant
 
 ##.__footer_ads
 ##._show-sponsored
@@ -55,6 +57,8 @@
 ##.article_paid
 ##.attention--fixed
 ##.b-take-gift-popup
+##.b24-widget-button-popup
+##.b24-widget-button-wrapper
 ##.banner
 ##.banner-popup
 ##.banner-terms-of-use
@@ -75,8 +79,10 @@
 ##.cookies-privacy-popup
 ##.cookiesdiv
 ##.content-banner-rotator
+##.сontract-banner
 ##.dno
 ##.doc-gdpr
+##.exit-popup
 ##.fixed_banner
 ##.fixed-bottom
 ##.floating-header
@@ -85,6 +91,7 @@
 ##.in-app-banner
 ##.js-announcement-banner
 ##.js-consent-banner
+##.js-cookie-usage-notice-wrapper
 ##.js_cookie_panel
 ##.js-dismissable-hero
 ##.js-freemium-cta
@@ -99,6 +106,7 @@
 ##.leadinModal-content
 ##.leadinModal-overlay
 ##.leadinModal-preview
+##.loyalty-banner-block
 ##.ltteleg-overlay
 ##.m-privacy-consent__inner
 ##.m-privacy-consent
@@ -114,6 +122,8 @@
 ##.newsletter-banner-desktop
 ##.newsletter-form
 ##.page-header__banner
+##.PageBottomBanner
+##.paywall-bar
 ##.persistent-bottom
 ##.policy
 ##.policypopup
@@ -135,12 +145,16 @@
 ##.social-sharing
 ##.sponsor
 ##.sticky-share-container
+##.subscribe-float
 ##.subscribe-layout
 ##.subscribers-form
+##.subscription-popup
+##.subscription-popup-v2
 ##.suggest_push
 ##.telegram-modal
 ##.tippy-popper
 ##.top-banner-container
+##.usePersonalData
 ##.wp_subscribe
 ##.wraper__suggest
 
