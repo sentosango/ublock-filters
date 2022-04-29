@@ -126,6 +126,7 @@
 ###uecookies
 ###uhfCookieAlert
 ###v-cookielaw
+##[class*="CookiesInformer"]
 ##.Cookie
 ##.CookieBar
 ##.CookieMessage
