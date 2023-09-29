@@ -29,6 +29,11 @@ blog.couchbase.com##.sharedaddy
 career.habr.com##.vacancy_banner
 career.habr.com##.timepad.section
 
+! cdek.ru
+cdek.ru##.banner-carousel
+cdek.ru##.cdek-shopping
+cdek.ru##.mobile-applications
+
 ! cnet.com
 cnet.com##.entered.dock.inviewElement
 
