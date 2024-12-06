@@ -366,6 +366,11 @@ vc.ru##.live__scrollable
 vc.ru##.live__header
 
 ! vk.com
+||st.vk.com/dist/web/chunks/init_unauth_page_bottom_banner.*$script
+||st.vk.com/dist/web/chunks/unauth_action_box.*$script
+||st.vk.com/dist/web/unauthorized.*$script
+||vk.com/js/langs/web/init_unauth_page_bottom_banner.*$script
+||vk.com/js/langs/web/unauth_action_box.*$script
 vk.com###stories_feed_wrap
 vk.com###groups_recommendations
 vk.com###page_bottom_banners_root
