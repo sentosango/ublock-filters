@@ -129,6 +129,7 @@
 ##.policypopup
 ##.popup__overlay
 ##.popup-subscribe-shadow
+##.privacy-policy-block
 ##.prm-block
 ##.promo-banner
 ##.promo-block
