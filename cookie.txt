@@ -197,6 +197,7 @@
 ##.cookiealert
 ##.cookiebanner
 ##.cookiebar
+##.cookieBlock
 ##.cookieconsent
 ##.cookieconsent-wrap
 ##.cookiedOuter
