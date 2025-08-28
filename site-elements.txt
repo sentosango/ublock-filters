@@ -83,7 +83,15 @@ edureka.co##.slideup.newsletter-section
 ! facebook.com
 facebook.com###headerArea
 
+! familio.org
+familio.org##.HiddenPersonCounter
+familio.org##.merch-button
+
+! fandom.com
+fandom.com##.marketing-notifications
+
 ! feedly.com
+feedly.com###AppDockedPopups
 feedly.com##.button--primary.pro
 feedly.com##.LeftnavDock--notification
 feedly.com##.shareBarHolder
@@ -148,6 +156,20 @@ internet-technologies.ru###SidebarSticking
 ! itsfoss.com
 itsfoss.com##.Campaign
 
+
+! karelia.pro
+karelia.pro###cl_widget_partner_1
+karelia.pro###cl_widget_partner_2
+karelia.pro###cl_widget_partner_3
+karelia.pro##div.main-column:style(background-image:none !important)
+karelia.pro##.background-block.page-wrapper__block
+karelia.pro##.banner-popup__link
+karelia.pro##.branding-head
+karelia.pro##.branding_area
+karelia.pro##.cl_widget_proxy.samba-partner
+karelia.pro##.img-left
+karelia.pro##.top30
+
 ! karelinform.ru
 karelinform.ru##.popup
 
@@ -198,7 +220,9 @@ livelib.ru##.progress-sidenav
 livelib.ru##.swiper-container-horizontal.carousel-main
 
 ! moidom.citylink.pro
+moidom.citylink.pro##.App-footer
 moidom.citylink.pro##.mobile-header_top
+moidom.citylink.pro##.popup-pc
 moidom.citylink.pro##.public-camera-promo-block
 moidom.citylink.pro##.upper
 moidom.citylink.pro##.wrapper-smarthome-app
@@ -276,6 +300,9 @@ raindrop.io##.proAccountBlock
 rambler.ru##.j-menu
 rambler.ru##.j-sticky-banner
 rambler.ru##.popup__inner
+
+! reddig.com
+reddit.com##auth-landing-experience-xpromo-cbau-wrapper
 
 ! ria.ru
 ria.ru###headerSticked
