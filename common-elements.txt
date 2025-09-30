@@ -8,6 +8,7 @@
 
 ##frame
 ##noindex
+###adblocker
 ###announcement-banner
 ###banner-terms-of-use
 ###black_display
