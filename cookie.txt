@@ -206,6 +206,7 @@
 ##.cookies-alert-box-wrapper
 ##.cookies-banner
 ##.cookies-bar
+##.cookies-notice-container
 ##.cookies-notification
 ##.cookies-prompt
 ##.cookies__banner
