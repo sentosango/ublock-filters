@@ -131,6 +131,7 @@
 ##.CookieBar
 ##.CookieMessage
 ##.CookieNotificationTopBar
+##.CookiesPopup
 ##.CookieWarning
 ##.CookiesBanner
 ##.accepted-cookies
