@@ -126,7 +126,9 @@
 ###uecookies
 ###uhfCookieAlert
 ###v-cookielaw
+##[aria-label="Cookies"]
 ##[class*="CookiesInformer"]
+##[data-testid="cookies-dialog"]
 ##.Cookie
 ##.CookieBar
 ##.CookieMessage
