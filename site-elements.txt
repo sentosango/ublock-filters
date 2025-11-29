@@ -158,9 +158,18 @@ itsfoss.com##.Campaign
 
 
 ! karelia.pro
+||api.karelia.pro/native/iskra
 karelia.pro###cl_widget_partner_1
+karelia.pro###cl_widget_partner_1_link
 karelia.pro###cl_widget_partner_2
+karelia.pro###cl_widget_partner_2_link
 karelia.pro###cl_widget_partner_3
+karelia.pro###cl_widget_partner_3_link
+karelia.pro###cl_widget_partner_4
+karelia.pro###cl_widget_partner_4_link
+karelia.pro###cl_widget_partner_5
+karelia.pro###cl_widget_partner_5_link
+karelia.pro###newInCinemaBlock
 karelia.pro##div.main-column:style(background-image:none !important)
 karelia.pro##.background-block.page-wrapper__block
 karelia.pro##.banner-popup__link
@@ -168,7 +177,10 @@ karelia.pro##.branding-head
 karelia.pro##.branding_area
 karelia.pro##.cl_widget_proxy.samba-partner
 karelia.pro##.img-left
-karelia.pro##.top30
+karelia.pro##.page-wrapper__partner
+karelia.pro##.partner_citylink
+karelia.pro##.wrapper__partner
+
 
 ! karelinform.ru
 karelinform.ru##.popup
