@@ -19,9 +19,6 @@ askubuntu.com##body:style(background-image:none !important)
 askubuntu.com##.site-header
 askubuntu.com##.z-nav-fixed
 
-! binance.com
-binance.com###launcher
-
 ! blog.couchbase.com
 blog.couchbase.com##.sharedaddy
 
@@ -218,8 +215,9 @@ linuxquestions.org##.navbar_notice
 losst.ru##.image-logo.logo-wrap
 
 ! livejournal.com
-livejournal.com##.b-discoverytimes-wrapper
 livejournal.com##frame
+livejournal.com##.b-discoverytimes-wrapper
+livejournal.com##.lj-like
 
 ! livelib.ru
 livelib.ru###selfpub-alert
@@ -239,12 +237,6 @@ moidom.citylink.pro##.public-camera-promo-block
 moidom.citylink.pro##.upper
 moidom.citylink.pro##.wrapper-smarthome-app
 
-! money.yandex.ru
-money.yandex.ru##.offerwall-banner
-
-! myheritage.com
-myheritage.com##.pop_from_top_banner_container
-
 ! myshows.me
 myshows.me##.contAlt > [href^="https://myshows.me/pro/"]
 myshows.me##._sticking.user-in-show-only._actions
@@ -252,9 +244,6 @@ myshows.me##._main:style(background-color: rgb(31, 32, 32) !important)
 myshows.me##.footer
 myshows.me##footer,footer .container:style(background-color: rgb(39, 40, 40) !important)
 myshows.me##footer:style(border-top: solid #c00 3px;)
-
-! ntv.ru
-ntv.ru###newplayer
 
 ! nunomaduro.com
 nunomaduro.com##.mc-modal
@@ -294,12 +283,6 @@ pochta.ru##div[class*="BannerPlace"]
 
 ! podster.fm
 podster.fm##.promoblock
-
-! ptzgovorit.ru
-ptzgovorit.ru###navbar
-ptzgovorit.ru##.longread-title-progress-bar
-ptzgovorit.ru##.navbar-news-margin
-ptzgovorit.ru##.navbar-short
 
 ! python-scripts.com
 python-scripts.com###sgpb-popup-dialog-main-div-wrapper
@@ -351,9 +334,12 @@ stolicaonego.ru##.choice
 stolicaonego.ru##.content_banner_thin
 stolicaonego.ru##.content_right
 stolicaonego.ru##.content-small-news
+stolicaonego.ru##.header__wrap-btn
 stolicaonego.ru##.header2019
+stolicaonego.ru###hideadvs
 stolicaonego.ru##.owl-drag.owl-loaded.owl-carousel.blocks2019-wrap > .owl-stage-outer
 stolicaonego.ru##.sm-rotator2019
+stolicaonego.ru##.swiper-wrapper
 stolicaonego.ru##.top_banner1200
 stolicaonego.ru##.top_bl
 stolicaonego.ru##.yandex_ad_one
@@ -393,7 +379,6 @@ tvrain.ru##.document-head__title_foreign_agent
 tvrain.ru##.menu3__bottom
 tvrain.ru##.menu3__foreign-agent-wrapper
 tvrain.ru##.sospeso-widget-material
-tvrain.ru##.wrap--transparent:style(padding-top:0 !important)
 
 ! ura.news
 ura.news##.no-print
