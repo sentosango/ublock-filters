@@ -4,6 +4,7 @@
 
 ||convertkit.com^
 ||jivosite.com^
+||jivo.ru^
 
 ||privacy-mgmt.com^
 ||privacymanager.io^
