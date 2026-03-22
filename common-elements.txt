@@ -18,6 +18,7 @@
 ###cookiebar
 ###cookiesv2
 ###demo_banner_allow_line
+###donate-pop-up
 ###drift-widget-container
 ###exitpopup-modal
 ###fixed-banner
