@@ -6,3 +6,4 @@
 *ScrollMagic*$script
 *smooth-scroll*$script
 *SmoothScroll*$script
+*advert.js$script
